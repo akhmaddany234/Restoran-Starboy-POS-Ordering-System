@@ -118,4 +118,4 @@ python main.py
 ---
 
 ## 👨‍💻 Kontributor
-* **Nama Anda** - NIM: `12345678` - Universitas/Kelas
+* **Akhmad dany** - NIM: `23031554234` - Universitas Negeri Surabaya
