@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office temporary files (Excel lock files)
+~$*.xlsx
+
+# Local user/transaction data that shouldn't be shared (optional, but good practice for receipts)
+# data_pelanggan/*.txt
+# !data_pelanggan/riwayat_pembeli.txt
