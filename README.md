@@ -108,8 +108,7 @@ python main.py
 
 ---
 
-## 📸 Tampilan Aplikasi
-*(Tambahkan screenshot antarmuka aplikasi Anda di bawah ini agar halaman GitHub tampak lebih menarik)*
+## 📸 Highlight Tampilan Aplikasi
 
 | Halaman Utama | Menu Pemesanan Pelanggan |
 | :---: | :---: |
